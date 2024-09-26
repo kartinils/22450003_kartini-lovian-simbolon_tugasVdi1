@@ -1,8 +1,20 @@
-9/25/24, 9:22 PM tugas 2 vdi
 
-> tugas 2 vdi kartini lovian simbolon
+
+> tugas 2 vdi
+>
+> kartini lovian simbolon
+> 
+> 122450003
+> 
+> rc
 >
 > 2024-09-25
+>
+> ## **- good Visualization** 
+>
+>  Link :[https://visme.co/blog/best-data-visualizations/](https://visme.co/blog/best-data-visualizations/)
+
+![alt text](https://visme.co/blog/wp-content/uploads/2023/01/4-3-768x1189.png?raw=true)
 >
 > kejelasan(clarity)
 >
@@ -32,6 +44,11 @@
 > terutama dalam memperlihatkan dominasi China dan India dalam populasi
 > global.
 >
+> Link :[https://visme.co/blog/best-data-visualizations/](https://visme.co/blog/best-data-visualizations/)
+
+![alt text](https://visme.co/blog/wp-content/uploads/2021/08/Visualizing-the-History-of-Pandemics-768x1808.jpg?raw=true)
+>
+>
 > kejelasan(clarity)
 >
 > Gambar ini dengan jelas merepresentasikan jumlah korban jiwa dari
@@ -52,9 +69,8 @@
 > representasi setiap elemen secara langsung tanpa harus memikirkan
 > ulang arti simbol atau warna yang berbeda.
 
-file:///C:/Users/LENOVO/Downloads/tugas-vdi-2.html 1/3
 
-9/25/24, 9:22 PM tugas 2 vdi Efisiensi (Efficiency)
+Efisiensi (Efficiency)
 
 > Pandemi besar seperti Wabah Hitam direpresentasikan dengan bola yang
 > lebih besar dan lebih menonjol secara visual, sementara wabah yang
@@ -72,7 +88,13 @@ file:///C:/Users/LENOVO/Downloads/tugas-vdi-2.html 1/3
 > disajikan dapat diandalkan dan up-to-date (setidaknya sampai pandemi
 > COVID-19). Visualisasi ini menyampaikan skala relatif kematian dengan
 > akurat sepanjang waktu.
->
+
+## **- Bad Visualization** 
+
+Link :[https://www.codeconquest.com/blog/12-bad-data-visualization-examples-explained/#htoc-bad-data-visualization-example-2](https://www.codeconquest.com/blog/12-bad-data-visualization-examples-explained/#htoc-bad-data-visualization-example-2)
+
+![alt text](https://i0.wp.com/www.codeconquest.com/wp-content/uploads/image-7.png?w=935&ssl=1?raw=true)
+
 > kejelasan(clarity)
 >
 > Visualisasi ini cukup jelas dalam menyajikan data perubahan harga
@@ -106,6 +128,13 @@ file:///C:/Users/LENOVO/Downloads/tugas-vdi-2.html 1/3
 > pada tahun 2013 di mana nilai negatif yang signifikan (-6.7%) tidak
 > terlalu terlihat besar dibandingkan dengan perubahan lainnya.
 >
+> 
+>
+> Link :[https://www.codeconquest.com/blog/12-bad-data-visualization-examples-explained/#htoc-bad-data-visualization-example-2](https://www.codeconquest.com/blog/12-bad-data-visualization-examples-explained/#htoc-bad-data-visualization-example-2)
+
+![alt text](https://i0.wp.com/www.codeconquest.com/wp-content/uploads/image-9.png?w=640&ssl=1?raw=true)
+
+>
 > kejelasan(clarity)
 >
 > Visualisasi ini memiliki beberapa masalah dalam hal kejelasan.
@@ -113,11 +142,6 @@ file:///C:/Users/LENOVO/Downloads/tugas-vdi-2.html 1/3
 > penggunaan diagram pie (lingkaran) yang tidak proposional terhadap
 > angka membuat pembaca sulit membandingkan ukuran segmen secara visual.
 > Grafik lingkaran biasanya digunakan untuk
-
-file:///C:/Users/LENOVO/Downloads/tugas-vdi-2.html 2/3
-
-9/25/24, 9:22 PM tugas 2 vdi
-
 > menampilkan data yang berkontribusi terhadap total 100%, tetapi di
 > sini, persentase yang ditampilkan tidak saling melengkapi. Ini
 > membingungkan pembaca.
@@ -146,4 +170,4 @@ file:///C:/Users/LENOVO/Downloads/tugas-vdi-2.html 2/3
 > perbedaan antara 51% dan 43% tidak terlihat jelas dalam ukuran segmen.
 > Ini bisa menyesatkan pembaca dalam memahami perbandingan antar nilai.
 
-file:///C:/Users/LENOVO/Downloads/tugas-vdi-2.html 3/3
+
