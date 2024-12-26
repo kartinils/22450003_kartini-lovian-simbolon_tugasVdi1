@@ -10,15 +10,15 @@ jupyter:
   nbformat_minor: 0
 ---
 
-::: {.cell .markdown id="GG0A4ip8GFy_"}
+
 Nama : kartini lovian simbolon
 
 Nim : 1233450003
 
 Kelas :Rc
-:::
 
-::: {.cell .markdown id="TM-989u7GpWi"}
+
+
 **pendahuluan**
 
 visualisasi data merupakan perubahan dari data abstrak diubah menjadi
@@ -29,23 +29,17 @@ menggunakan visualisasi ini sehingga mudah untuk ditafsirkan.
 terdapat komunitas yang memberikan rekomendasi untuk memudahkan pengguna
 melakukan visualisasi contohnya dengan D3,VegaLite,Tableu,dan microsoft
 power BI
-:::
 
-::: {.cell .markdown id="PTHcNGu7svjo"}
 **Tujuan penelitian**
 
 untuk menangggapi permintaan membantu visualisasi data yang lebih
 efisien dan lebih efektif karena tingginya permintaan pemrosesan data
-:::
 
-::: {.cell .markdown id="x8GRDpyhta9P"}
 **Metode yang dipakai**
 
 pada jurnal ini metode yang dipakai menggunakan studi literatur dan
 memakai kualitatif
-:::
 
-::: {.cell .markdown id="aiNc71K0Mksx"}
 **alur dari visualisasi data**
 
 -   data import
@@ -58,7 +52,7 @@ memakai kualitatif
 
 dari alur diatas dapat diidentikasikan menjadi 3 yaitu
 
--   **Visualization Specifications**
+**Visualization Specifications**
 
 bahasa dari visualisasi data dibagi menjadi 3 yaitu data,marks,dan
 mapping
@@ -67,7 +61,7 @@ dalam visualisasi terdadapat kategori terdapat underspecified lalu
 diatasnya ada gui-bassed tools,high-level,dan low-level semakin tinggi
 level nya semakin mudah digunakan
 
--   **Efficient Approaches for Data Visualization**
+**Efficient Approaches for Data Visualization**
 
 efisiensi dibutuhkan dalam pemilihan visualisasi data yang tepat seperti
 cara membaca data dari data base atau ketika memilih query yang tepat
@@ -79,7 +73,7 @@ sampling-based approaches that link incremental query processing to
 visualization; and human perception-based approaches that capture the
 cognitive limitations of human perception
 
--   **visualisasi data progresif**
+**visualisasi data progresif**
 
 visualisasi progresif melalui agregasi hierarkis.visualisasi progresif
 melalui agregasi hierarkis. Secara umum, membangun struktur hierarkis
@@ -96,10 +90,8 @@ visualisasi.Range and Content-Based Binning HETree-C dapat digunakan
 dalam skenario transkrip pemeriksaan di atas. Pengguna dapat menjelajahi
 abstraksi data atau detail data dengan operasi roll-up atau drill-down
 untuk mencapai level atas atau berikutnya
-:::
 
-::: {.cell .markdown id="hTd8kPHYGtco"}
--   **Rekomendasi visualisasi**
+**Rekomendasi visualisasi**
 
 Rekomendasi berbasis spesifikasi
 
@@ -125,18 +117,16 @@ pengguna ada banyak teknik lain yaitu penyaringan Berbasis Konten.Bagi
 pengguna yang baru menggunakan sistem ini, rekomendasi berbasis CF tidak
 berlaku. Dengan demikian, VizRec juga mengembangkan rekomendasi berbasis
 konten.
-:::
 
-::: {.cell .markdown id="AMXoCA1qWudw"}
 **Arah penelitian**
 
--- What-if Analysis for Outliers
+What-if Analysis for Outliers
 
 memungkinkan pengguna untuk menentukan secara manual outlier dari hasil
 query agregasi. Kemudian mencoba untuk menemukan dan menghapus predikat
 yang menyebabkan outlier tersebut
 
--- Evaluating Visualizations with Missing Data
+Evaluating Visualizations with Missing Data
 
 untuk mengukur faktor-faktor yang memengaruhi akurasi respons, kualitas
 data, dan keyakinan dalam interpretasi untuk data deret waktu dengan
@@ -148,9 +138,7 @@ Seperti ImageNet atau benchmark TPC klasik, penting untuk mengembangkan
 tolok ukur untuk kinerja dan rekomendasi. Tolok ukur harus sesuai dengan
 tugas analisis visual, menyediakan jejak dan data yang dapat digunakan
 kembali
-:::
 
-::: {.cell .markdown id="vRkMXiMVZDlL"}
 **kesimpulan**
 
 dari jurnal ini dapat disimpulkan bahwa visualisasi data sudah banyak
@@ -162,4 +150,3 @@ peneliti atau pun perusahaan industri terbantu dalam mengambil keputusan
 yang dapat mencapai keberhasilan,namun masih ada hal mengenai
 rekomendasi dari sistem yang diperlukan diskusi lanjutan ataupun diskusi
 terbuka dengan peneliti untuk membahas masalah tersebut
-:::
